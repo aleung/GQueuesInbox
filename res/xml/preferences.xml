@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<PreferenceScreen 
+        xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:key="preference" 
+    android:title="Preference" > 
+ 
+ <EditTextPreference 
+                android:key="gqueues_private_key_preference" 
+                android:title="GQueues Private Key" 
+                android:summary="Open GQueues.com - Setting - General - Private Key to get it" 
+                android:dialogTitle="GQueues Private Key" /> 
+                
+</PreferenceScreen>
